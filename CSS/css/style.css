@@ -1,0 +1,52 @@
+nav {
+    display: flex;
+    justify-content:space-between;
+    background-color: white;
+    top: 0;
+    right: 0;
+    left: 0;
+     height: 50px;
+    position: fixed;
+
+}
+body {
+    background-image: url(../img/pattern\ \(1\).jpg);
+    margin: 0px;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    list-style-type: none;
+    display: inline;
+    margin-right: 50px;
+    
+}
+a{
+    text-decoration:none;
+    color: blue;
+ 
+}
+
+main{
+    background-color: white;
+    margin: 100px 210px 60px;
+}
+
+footer{
+    background-color: black;
+}
+
+.h1footer{
+    color:white;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    margin: 20px
+}
+article{
+    border-bottom: 2px solid black;
+    margin-top: 40px;
+}
